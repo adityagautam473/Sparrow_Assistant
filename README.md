@@ -4,7 +4,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/adityagautam473/sparrow-assistant.git
+git clone https://github.com/adityagautam473/Sparrow_Assistant.git
 cd sparrow-assistant
 
 Set up a virtual environment:
